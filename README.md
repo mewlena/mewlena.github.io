@@ -1,3 +1,3 @@
 # mewlenashop web
 
-mewlena.com
+web: mewlena.com
