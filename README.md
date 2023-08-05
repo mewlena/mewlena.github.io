@@ -2,4 +2,4 @@
 
 URL:
 
-[Mewlena](https://mewlena.com)
+[Mewlena LP](https://mewlena.github.io)
